@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **albartbtme@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1znwInPJJ2SEIw8WXT0J4GdZKk-GVL76a](https://drive.google.com/drive/u/0/folders/1znwInPJJ2SEIw8WXT0J4GdZKk-GVL76a)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1610Bcdqzr-Xih_K-HQ3eRNMZkU9Ven7a/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
