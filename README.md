@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://albart-react-portfolio.vercel.app](https://albart-react-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://albartjose.vercel.app/](https://albartjose.vercel.app/)
 
 - 📝 I regularly write articles on [https://albartjose.hashnode.dev/](https://albartjose.hashnode.dev/)
 
