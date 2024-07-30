@@ -1,12 +1,8 @@
-<p align="center"> <img src = "https://www.wallpapertip.com/wmimgs/250-2504846_a-two-display-workspace-with-lines-of-code.jpg" width="60%" height = "300px" /></p>
+<p align="center"> <img src = "https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_1280.jpg" width="60%" height = "300px" /></p>
 <h1 align="center">Hi 👋, I'm Albart Jose</h1>
 <h3 align="center">A passionate full Stack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://albartjose.vercel.app/](https://albartjose.vercel.app/)
-
-- 📝 I regularly write articles on [https://albartjose.hashnode.dev/](https://albartjose.hashnode.dev/)
+- 🌱 I’m currently a **MERN Stack Web Developer**
 
 - 📫 How to reach me **albartbtme@gmail.com**
 
